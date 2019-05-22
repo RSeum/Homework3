@@ -1,0 +1,50 @@
+.john {
+         }
+.name {
+        font-size:24px;
+         }
+.word {
+        font-family:DFKai-sb;
+        font-size:20px;
+         }
+
+.container {
+  width: 100%;
+  background-color: #ddd;
+           }
+
+.skills {
+  text-align: right;
+  padding: 10px;
+  color: white;
+        }
+
+.html {width: 70%; background-color: #4CAF50;
+       }
+
+.css {width: 60%; background-color: #2196F3;
+        }
+
+.js {width: 50%; background-color: #f44336;
+        }
+
+.php {width: 30%; background-color:#CC00CC ;
+         }
+
+.python {width: 30%; background-color: #808080;
+         }
+
+.word2 {
+        font-family:DFKai-sb;
+        font-size:20px;
+        color:gray;
+        left:-20%;
+         }
+.eight{
+       position: relative;
+       left:-20%;
+       }
+.nine {
+       position: relative;
+       right:-20%
+       }
